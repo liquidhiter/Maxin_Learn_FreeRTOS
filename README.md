@@ -2,5 +2,10 @@
 
 # Maxin_Learn_FreeRTOS
 **NOTE**: all the markdown files in this repo are directly exported from the Notion. That's WHY the file names are a bit messy!
+
+## TODOs
 - [ ] Rename markdown files
 - [ ] Add example code
+
+## Future plan
+- [ ] Deep dive in Zephry
